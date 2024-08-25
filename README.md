@@ -1,34 +1,168 @@
 ﻿## Hi there 👋, I'm NGIRIMANA Schadrack [![wakatime](https://wakatime.com/badge/user/b06c7fd4-f5a7-4da2-a0fb-d75ca1b1bc27.svg)](https://wakatime.com/@b06c7fd4-f5a7-4da2-a0fb-d75ca1b1bc27)
 
 ### The things I code
-[![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
-[![ReactJs](https://img.shields.io/badge/-ReactJs-5b8d89?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-6e5494?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-
-
-
-
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img alt="Nodejs" src="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&amp;logo=Node.js&amp;logoColor=white" style="max-width:100%;"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img alt="ReactJs" src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&amp;logo=Node.js&amp;logoColor=white" style="max-width:100%;"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img alt="Git" src="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&amp;logo=Node.js&amp;logoColor=white" style="max-width:100%;">     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img alt="Git" src="https://camo.githubusercontent.com/a3a32f8641c857c7b7ad06392edb3e88f54fc4f68d956f8105d1eff7447c714a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5374796c65645f436f6d706f6e656e74732d6462373039323f7374796c653d666c61742d737175617265266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&amp;logo=Node.js&amp;logoColor=white" style="max-width:100%;">  <a target="_blank" rel="noopener noreferrer" href="#">
-<img alt="Python" src="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"> <img alt="MongoDB" src="https://camo.githubusercontent.com/8525e7e6900fc4c5546b0442f8a2f187b802e9f40d431ac7394d2c1509234ad9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&amp;logo=mongodb&amp;logoColor=white" style="max-width:100%;"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fabe0b9fc0956fc4327fb91945629b49e89722774141d1be082a23f4770e2513/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536173732d4343363639393f7374796c653d666c61742d737175617265266c6f676f3d73617373266c6f676f436f6c6f723d7768697465"> <img alt="Sass" src="https://camo.githubusercontent.com/fabe0b9fc0956fc4327fb91945629b49e89722774141d1be082a23f4770e2513/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536173732d4343363639393f7374796c653d666c61742d737175617265266c6f676f3d73617373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&amp;logo=sass&amp;logoColor=white" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5ffd853b0824728d0a8ce1f5dd3634891bb73fe5c560b423eb45c0e34be4581c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"><img alt="redux" src="https://camo.githubusercontent.com/5ffd853b0824728d0a8ce1f5dd3634891bb73fe5c560b423eb45c0e34be4581c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f0b95394ffc005b03c6f4fdad0c7acc8e6a4007f5bf1508aa684fffcd1191aa2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465"><img alt="Heroku" src="https://camo.githubusercontent.com/f0b95394ffc005b03c6f4fdad0c7acc8e6a4007f5bf1508aa684fffcd1191aa2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&amp;logo=heroku&amp;logoColor=white" style="max-width:100%;"> </a>
-<img alt="Firebase" src="https://camo.githubusercontent.com/ed820fcfb4012e184e3221268236bb25059e6a42b281093ece8c688d24a3a4db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Firebase-black?style=flat-square&amp;logo=wordpress&amp;logoColor=orange-red" style="max-width:100%;"> </a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img alt="Docker" src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&amp;logo=docker&amp;logoColor=white" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img alt="Docker" src="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&amp;logo=docker&amp;logoColor=white" style="max-width:100%;"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img alt="Docker" src="https://camo.githubusercontent.com/2b45033e2adf3e29d12c99c83596de1c2f31922af2bdf400a51e4f6e24472248/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d666c75747465722d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d666c7574746572266c6f676f436f6c6f723d677265656e" data-canonical-src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&amp;logo=docker&amp;logoColor=white" style="max-width:100%;">
-<img alt="spring boot" src="https://camo.githubusercontent.com/d73bfd74d156df2c124e7042ee292fbf25ce7093347e5fb2917afb457b01963c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d737072696e67253230626f6f742d626c7565"/>
-<img alt="NestJs" src="https://camo.githubusercontent.com/7f8b6716845b5d9cd69f8ce04e587bb955f45040549f33cbd5e9baf464ae5e7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666c61742d737175617265266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465"/>
-<img alt="GCP" src="https://camo.githubusercontent.com/e77d91be80f19fcb29eb905affdb1d1148161890861cd50c309852583a76f45c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6f676c655f436c6f75645f506c6174666f726d2d3161373365383f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465"/>
-<img src="https://camo.githubusercontent.com/d60afb008bc0bcde7ea8720637928cb02c0f9a6d795dad7382f688a17e7515de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TS"/>
-<img src="https://camo.githubusercontent.com/0d98e275bc8818697fbcbe9a978a94cb9485f73e228f26fc4667b4fab5647203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666c61742d737175617265266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465" alt="GraphQL"/>
-<img src="https://camo.githubusercontent.com/bfa42fcd0e2a979d168d3652b0ddab5966786d6ea6816b22841c6d355d81bdd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465"/>
-<img src="https://camo.githubusercontent.com/5ca0600a870ed2fd6a5531de972a0bcbee8aa8bbb854e5dad4a153c70f910dff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"/>
-
+<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="max-width:100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white">
+    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" style="max-width:100%;">
+</a>
+
+
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" style="max-width:100%;">
+</a>
+
+
+
+
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white">
+    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" style="max-width:100%;">
+</a>
+
+
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=orange-red">
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=orange-red" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/">
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://mariadb.org/">
+    <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Spring_Boot-blue">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-blue" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://kafka.apache.org/">
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://samza.apache.org/">
+    <img alt="Apache Samza" src="https://img.shields.io/badge/-Apache%20Samza-E61D25?style=flat-square&logo=apache&logoColor=white" style="max-width:100%;">
+</a>
+
+
+
+<a target="_blank" rel="noopener noreferrer" href="https://golang.org/">
+    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://gin-gonic.com/">
+    <img alt="Gin" src="https://img.shields.io/badge/-Gin_Gonic-00ADD8?style=flat-square&logo=go&logoColor=white" style="max-width:100%;">
+</a>
+
+
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://jupyter.org/">
+    <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://flask.palletsprojects.com/">
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" style="max-width:100%;">
+</a>
+
+
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white">
+    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://kubernetes.io/">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://argoproj.github.io/cd/">
+    <img alt="Argo CD" src="https://img.shields.io/badge/-Argo%20CD-EB7A77?style=flat-square&logo=argo&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://azure.microsoft.com/">
+    <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.terraform.io/">
+    <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://travis-ci.org/">
+    <img alt="Travis CI" src="https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.jenkins.io/">
+    <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/features/actions">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-6e5494?style=flat-square&logo=github&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://prometheus.io/">
+    <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://grafana.com/">
+    <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" style="max-width:100%;">
+</a>
+
+
+
+
+
 
  ### Gist About Me
 
-- 🔭 I’m quality-oriented and self-made developer who is passionate about using technology to solve society problems and I’m always learning to keep my skills up to date and copy with changes in technology and I  specialized in Agile development.
+- 🔭 ‭ Highly ‬‭skilled ‬‭Cloud‬‭ Engineer‬‭ and‬‭ full-stack‬‭ software‬‭ in‬‭ designing‬‭ and‬ ‭developing‬‭ cloud‬
+‭based‬ ‭software‬ ‭solutions.‬ ‭I‬ ‭have‬ ‭a‬ ‭deep‬ ‭sense‬ ‭of‬ ‭responsibility,‬ ‭competent‬ ‭in‬ ‭cloud‬
+‭computing‬ ‭and‬ ‭full-stack ‬‭technologies,‬‭outstanding‬‭teamwork,‬‭communication‬‭skills‬‭and‬
+‭hunger‬‭for‬‭learning ‬‭and‬‭ adjusting‬‭ to ‬‭‬‭ new‬‭ technologies.‬‭I‬‭ aim ‬‭to increase ‬‭customer‬
+‭satisfaction and reducing cost.‬
   
-- 👯 I’m looking for collaborations on awesome project that create awesomes solutions.
-- 📫 Contact me : <a href="mailto:chadrackngirimana@gmail.com">send me an E-mail</a>
-- ⚡ Fun fact: I like listening classical music!
+- 👯 I’m looking for collaborations on awesome projects that create awesome solutions in ‭Software engineering, Cloud engineering, and DevOps engineering‬.
+- 📫 **Contact me**: <a href="mailto:chadrackngirimana@gmail.com">send me an E-mail</a>  
+- 📞 **Phone**: +250 781 475 108
+- ⚡ Fun fact: I like listening to classical music!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngirimana&hide=isues,stars&%253Fcount_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngirimana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ngirimana&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/ngirimana)
+
+
