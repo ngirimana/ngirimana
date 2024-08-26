@@ -73,6 +73,9 @@
 <a target="_blank" rel="noopener noreferrer" href="https://redis.io/">
     <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" style="max-width:100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://swagger.io/">
+    <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" style="max-width:100%;">
+</a>
 
 
 
@@ -112,20 +115,27 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white">
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" style="max-width:100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://azure.microsoft.com/">
+    <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" style="max-width:100%;">
+</a>
+ <a target="_blank" rel="noopener noreferrer" href="https://aws.amazon.com/">
+    <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" style="max-width:100%;">
+</a>
+   
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" style="max-width:100%;">
 </a>
-
+<a target="_blank" rel="noopener noreferrer" href="https://yaml.org/">
+    <img alt="YAML" src="https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white" style="max-width:100%;">
+</a>
 <a target="_blank" rel="noopener noreferrer" href="https://kubernetes.io/">
     <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" style="max-width:100%;">
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://argoproj.github.io/cd/">
     <img alt="Argo CD" src="https://img.shields.io/badge/-Argo%20CD-EB7A77?style=flat-square&logo=argo&logoColor=white" style="max-width:100%;">
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://azure.microsoft.com/">
-    <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" style="max-width:100%;">
-</a>
+
 <a target="_blank" rel="noopener noreferrer" href="https://www.terraform.io/">
     <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" style="max-width:100%;">
 </a>
@@ -150,9 +160,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://grafana.com/">
     <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" style="max-width:100%;">
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://yaml.org/">
-    <img alt="YAML" src="https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white" style="max-width:100%;">
-</a>
+
 
 
 
