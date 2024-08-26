@@ -150,6 +150,10 @@
 <a target="_blank" rel="noopener noreferrer" href="https://grafana.com/">
     <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" style="max-width:100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://yaml.org/">
+    <img alt="YAML" src="https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white" style="max-width:100%;">
+</a>
+
 
 
 
