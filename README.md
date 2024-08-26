@@ -91,6 +91,9 @@
 <a target="_blank" rel="noopener noreferrer" href="https://samza.apache.org/">
     <img alt="Apache Samza" src="https://img.shields.io/badge/-Apache%20Samza-E61D25?style=flat-square&logo=apache&logoColor=white" style="max-width:100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://developer.android.com/">
+    <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" style="max-width:100%;">
+</a>
 
 
 
