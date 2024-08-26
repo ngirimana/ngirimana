@@ -67,6 +67,14 @@
 <a target="_blank" rel="noopener noreferrer" href="https://mariadb.org/">
     <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" style="max-width:100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.sqlite.org/">
+    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://redis.io/">
+    <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" style="max-width:100%;">
+</a>
+
+
 
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="max-width:100%;">
