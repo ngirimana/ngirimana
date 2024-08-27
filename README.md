@@ -41,6 +41,9 @@
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" style="max-width:100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://redux-toolkit.js.org/">
+    <img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux%20Toolkit-593D88?style=flat-square&logo=redux&logoColor=white" style="max-width:100%;">
+</a>
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
