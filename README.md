@@ -50,11 +50,6 @@
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" style="max-width:100%;">
 </a>
-
-
-<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" style="max-width:100%;">
-</a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=orange-red">
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=orange-red" style="max-width:100%;">
 </a>
@@ -104,10 +99,10 @@
     <img alt="Gin" src="https://img.shields.io/badge/-Gin_Gonic-00ADD8?style=flat-square&logo=go&logoColor=white" style="max-width:100%;">
 </a>
 
-
-<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="max-width:100%;">
 </a>
+
 <a target="_blank" rel="noopener noreferrer" href="https://jupyter.org/">
     <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" style="max-width:100%;">
 </a>
@@ -123,6 +118,9 @@
 </a>
  <a target="_blank" rel="noopener noreferrer" href="https://aws.amazon.com/">
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" style="max-width:100%;">
 </a>
    
 </a>
