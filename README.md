@@ -7,6 +7,16 @@
 <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="max-width:100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://tailwindcss.com/">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://mui.com/">
+    <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://getbootstrap.com/">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" style="max-width:100%;">
+</a>
+
 
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="max-width:100%;">
@@ -65,6 +75,16 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.sqlite.org/">
     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" style="max-width:100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://typeorm.io/">
+    <img alt="TypeORM" src="https://img.shields.io/badge/-TypeORM-262627?style=flat-square&logo=typeorm&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://sequelize.org/">
+    <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://mongoosejs.com/">
+    <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" style="max-width:100%;">
+</a>
+
 <a target="_blank" rel="noopener noreferrer" href="https://redis.io/">
     <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" style="max-width:100%;">
 </a>
