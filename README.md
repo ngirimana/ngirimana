@@ -186,6 +186,12 @@
 </a>
 
 
+<a target="_blank" rel="noopener noreferrer" href="https://dart.dev/">
+    <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://flutter.dev/">
+    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" style="max-width:100%;">
+</a>
 
 
 
