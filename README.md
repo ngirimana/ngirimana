@@ -192,6 +192,24 @@
 <a target="_blank" rel="noopener noreferrer" href="https://flutter.dev/">
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" style="max-width:100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer" href="https://quarkus.io/">
+    <img alt="Quarkus" src="https://img.shields.io/badge/-Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" style="max-width:100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://go.dev/">
+    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://gin-gonic.com/">
+    <img alt="Gin" src="https://img.shields.io/badge/-Gin-008ECF?style=flat-square&logo=gin&logoColor=white" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://gofiber.io/">
+    <img alt="Fiber" src="https://img.shields.io/badge/-Fiber-00ACD7?style=flat-square&logo=fiber&logoColor=white" style="max-width:100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.keycloak.org/">
+    <img alt="Keycloak" src="https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" style="max-width:100%;">
+</a>
 
 
 
